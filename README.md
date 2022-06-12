@@ -1,6 +1,6 @@
 Header
 
-## I'm a beginner crossplatform software developer on Dart/Flutter
+## I'm a crossplatform software developer on Dart/Flutter
 
 ### Languages and Tools
 ![Dart](https://img.shields.io/badge/-DART-0a0a0a?style=for-the-badge&logo=Dart&logoColor=0175C2)
